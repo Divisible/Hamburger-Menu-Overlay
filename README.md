@@ -1,4 +1,4 @@
-# Hamburger-Menu-Overlay
+# Hamburger-menu-overlay
 
 In that case, I layout the page with humburger menu.
 
